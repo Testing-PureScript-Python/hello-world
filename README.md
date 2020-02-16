@@ -4,7 +4,7 @@
 
 - Installation of [PureScript Python](https://github.com/thautwarm/purescript-python/), currently you have to install it from source with command `stack install .`.
 
-- Python version `>=3.5`, and the installation of following packages:
+- Python version `>=3.5`, and the installation of following Python packages:
   - purescripto
   - pysexpr
 
